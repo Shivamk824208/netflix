@@ -31,7 +31,7 @@ nav{
     position: relative;
 }
 .main{
-    background-image: url(ph.jpg);
+    background-image: url(https://i.ibb.co/dJwyXm5T/ph.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -265,4 +265,5 @@ position: relative;
 }
 .words{
     font-size: 1.5rem;
+
 }
